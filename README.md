@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C3A9C&height=230&section=header&text=Massamba%20Fall%20Sène&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=230&section=header&text=Massamba%20Fall%20Sène&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=17&animation=fadeIn" />
 
 ### Backend Developer | AI Engineer in Progress | Software Builder
 
 Building scalable applications with **Java, Spring Boot** and exploring **Artificial Intelligence Engineering**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=635147&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -107,20 +107,20 @@ System Design
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-massamba--fall.vercel.app-6A5ACD?style=flat-square&logo=vercel&logoColor=white)](https://massamba-fall.vercel.app)
-[![Email](https://img.shields.io/badge/Email-massamba0809%40gmail.com-6A5ACD?style=flat-square&logo=gmail&logoColor=white)](mailto:massamba0809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-massamba--fall.vercel.app-635147?style=flat-square&logo=vercel&logoColor=white)](https://massamba-fall.vercel.app)
+[![Email](https://img.shields.io/badge/Email-massamba0809%40gmail.com-635147?style=flat-square&logo=gmail&logoColor=white)](mailto:massamba0809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-635147?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=massamba0809&style=flat-square&color=6A5ACD" />
+<img src="https://komarev.com/ghpvc/?username=massamba0809&style=flat-square&color=635147" />
 
 <sub>"Code. Learn. Build. Share."</sub>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C3A9C&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=100&section=footer" />
 
 </div>

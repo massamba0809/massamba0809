@@ -27,6 +27,10 @@ My journey started with Java backend development, where I built REST APIs and bu
 
 ## Technical Skills
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,angular,nextjs,postgres,mysql,docker,linux,git,github,aws&perline=7" />
+</div>
+
 ### Backend
 Java · Spring Boot · Spring Security · Hibernate · JPA · REST APIs
 
@@ -90,10 +94,6 @@ System Design
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=massamba0809&theme=tokyonight" />
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&theme=tokyo-night" width="90%" />
 
 </div>
@@ -118,6 +118,8 @@ System Design
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=massamba0809&style=flat" />
 
 "Code. Learn. Build. Share."
 

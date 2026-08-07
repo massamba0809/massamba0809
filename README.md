@@ -6,11 +6,11 @@
 
 Building scalable applications with **Java, Spring Boot** and exploring **Artificial Intelligence Engineering**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=635147&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=635147&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## About Me
 
@@ -23,7 +23,7 @@ My journey started with Java backend development, where I built REST APIs and bu
 - Artificial Intelligence Student at Sonatel Academy
 - Interested in Software Architecture, AI Engineering and DevOps
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## Technical Skills
 
@@ -48,7 +48,7 @@ Python · NumPy · Pandas · Matplotlib · Machine Learning
 ### DevOps & Tools
 Linux · Git · Docker · Docker Compose · GitHub Actions
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## Featured Projects
 
@@ -68,7 +68,7 @@ Business management application demonstrating fullstack development skills.
 ### Linux & AI Projects
 Learning projects focused on Linux administration, automation and AI environments.
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## Currently Learning
 
@@ -82,21 +82,21 @@ Cloud Computing
 System Design
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=massamba0809&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=massamba0809&theme=radical&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=massamba0809&theme=radical&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&theme=react-dark&hide_border=true" width="90%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=massamba0809&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## 2026 Goals
 
@@ -105,7 +105,7 @@ System Design
 - Improve Cloud and DevOps skills
 - Contribute to Open Source
 
-<img src="https://capsule-render.vercel.app/api?type=transition&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=60&section=header&animation=fadeIn" width="100%" />
 
 ## Let's Connect
 
@@ -119,7 +119,7 @@ System Design
 
 <sub>"Code. Learn. Build. Share."</sub>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/massamba0809/massamba0809/output/github-contribution-grid-snake.svg" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=635147&height=100&section=footer" />
 

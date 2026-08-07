@@ -6,7 +6,7 @@
 
 Building scalable applications with **Java, Spring Boot** and exploring **Artificial Intelligence Engineering**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -28,23 +28,18 @@ My journey started with Java backend development, where I built REST APIs and bu
 ## Technical Skills
 
 ### Backend
-
 Java · Spring Boot · Spring Security · Hibernate · JPA · REST APIs
 
 ### Frontend
-
 React · Angular · Next.js · Tailwind CSS
 
 ### Databases
-
 PostgreSQL · MySQL · SQLite
 
 ### Artificial Intelligence
-
 Python · NumPy · Pandas · Matplotlib · Machine Learning
 
 ### DevOps & Tools
-
 Linux · Git · Docker · Docker Compose · GitHub Actions
 
 ---
@@ -52,33 +47,23 @@ Linux · Git · Docker · Docker Compose · GitHub Actions
 ## Featured Projects
 
 ### Talent IA
-
 AI-powered CV generator helping candidates adapt their resumes using artificial intelligence.
 
 **Technologies:** Spring Boot · React · PostgreSQL · AI APIs
 
----
-
 ### Bakery Management SaaS
-
 A business management platform designed for bakery operations.
 
 **Features:** Sales · Inventory · Customers · Dashboard
 
 **Technologies:** Spring Boot · React · PostgreSQL · Docker
 
----
-
 ### ERP Fullstack
-
 Business management application demonstrating fullstack development skills.
 
 **Technologies:** Java · Spring Boot · Frontend Technologies
 
----
-
 ### Linux & AI Projects
-
 Learning projects focused on Linux administration, automation and AI environments.
 
 ---
@@ -107,6 +92,12 @@ System Design
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&theme=tokyo-night" width="90%" />
+
+</div>
+
 ---
 
 ## 2026 Goals
@@ -129,5 +120,7 @@ System Design
 <div align="center">
 
 "Code. Learn. Build. Share."
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>

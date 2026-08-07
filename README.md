@@ -1,128 +1,175 @@
 <div align="center">
 
-# Hi, I'm Massamba Fall Sène
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Massamba%20Fall%20Sène&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=58&descSize=18&animation=fadeIn" />
 
-### Backend Developer | AI Engineer in Progress | Software Builder 🇸🇳
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Building+Scalable+Backend+Systems;AI+Engineering+Student+%40+Sonatel+Academy;Turning+Data+into+Intelligent+Applications;Always+Learning%2C+Always+Building" />
 
-Building scalable applications with **Java, Spring Boot** and exploring **Artificial Intelligence Engineering**.
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Artificial+Intelligence+Student;Linux+%26+DevOps+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-massamba--fall.vercel.app-2A5298?style=for-the-badge&logo=vercel&logoColor=white)](https://massamba-fall.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massamba0809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+<img src="https://komarev.com/ghpvc/?username=massamba0809&style=for-the-badge&color=2A5298&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br>
 
-## About Me
+## About
 
-I am a Software Developer from Senegal 🇸🇳 passionate about backend engineering and artificial intelligence.
+Software developer based in Senegal, focused on backend engineering and artificial intelligence.
 
-My journey started with Java backend development, where I built REST APIs and business applications. I am currently expanding my expertise toward AI Engineering by combining software engineering, data science and machine learning.
+My path started in Java backend development — building REST APIs and business-critical applications with Spring Boot. I'm now extending that foundation toward AI Engineering, combining software architecture, data science, and machine learning to build intelligent, production-ready systems.
 
-- Computer Science Graduate
-- Backend Developer specialized in Java and Spring Boot
-- Artificial Intelligence Student at Sonatel Academy
-- Interested in Software Architecture, AI Engineering and DevOps
+<table>
+<tr>
+<td><b>Background</b></td>
+<td>Computer Science Graduate</td>
+</tr>
+<tr>
+<td><b>Specialization</b></td>
+<td>Backend Development — Java / Spring Boot</td>
+</tr>
+<tr>
+<td><b>Currently</b></td>
+<td>AI Engineering Student at Sonatel Academy</td>
+</tr>
+<tr>
+<td><b>Focus Areas</b></td>
+<td>Software Architecture · AI Engineering · DevOps</td>
+</tr>
+</table>
 
----
+<br>
 
 ## Technical Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,angular,nextjs,postgres,mysql,docker,linux,git,github,aws&perline=7" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+
+**Artificial Intelligence**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws&theme=dark" />
+
 </div>
 
-### Backend
-Java · Spring Boot · Spring Security · Hibernate · JPA · REST APIs
-
-### Frontend
-React · Angular · Next.js · Tailwind CSS
-
-### Databases
-PostgreSQL · MySQL · SQLite
-
-### Artificial Intelligence
-Python · NumPy · Pandas · Matplotlib · Machine Learning
-
-### DevOps & Tools
-Linux · Git · Docker · Docker Compose · GitHub Actions
-
----
+<br>
 
 ## Featured Projects
 
-### Talent IA
-AI-powered CV generator helping candidates adapt their resumes using artificial intelligence.
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:** Spring Boot · React · PostgreSQL · AI APIs
+### Talent IA
+AI-powered CV generator that helps candidates adapt their resumes using artificial intelligence.
+
+`Spring Boot` `React` `PostgreSQL` `AI APIs`
+
+</td>
+<td width="50%">
 
 ### Bakery Management SaaS
-A business management platform designed for bakery operations.
+Business management platform for bakery operations — sales, inventory, customers, and dashboard analytics.
 
-**Features:** Sales · Inventory · Customers · Dashboard
+`Spring Boot` `React` `PostgreSQL` `Docker`
 
-**Technologies:** Spring Boot · React · PostgreSQL · Docker
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### ERP Fullstack
-Business management application demonstrating fullstack development skills.
+Full business management application demonstrating end-to-end fullstack development.
 
-**Technologies:** Java · Spring Boot · Frontend Technologies
+`Java` `Spring Boot` `Frontend Technologies`
+
+</td>
+<td width="50%">
 
 ### Linux & AI Projects
-Learning projects focused on Linux administration, automation and AI environments.
+A collection of learning projects centered on Linux administration, automation, and AI environments.
 
----
+`Linux` `Bash` `Python`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Currently Learning
 
-```
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Data Science
-Kubernetes
-Cloud Computing
-System Design
-```
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=massamba0809&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=massamba0809&theme=tokyonight" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&theme=tokyo-night" width="90%" />
+![AI](https://img.shields.io/badge/Artificial_Intelligence-2A5298?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine_Learning-2A5298?style=for-the-badge)
+![DL](https://img.shields.io/badge/Deep_Learning-2A5298?style=for-the-badge)
+![DS](https://img.shields.io/badge/Data_Science-2A5298?style=for-the-badge)
+![K8s](https://img.shields.io/badge/Kubernetes-2A5298?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-2A5298?style=for-the-badge)
+![SysDesign](https://img.shields.io/badge/System_Design-2A5298?style=for-the-badge)
 
 </div>
 
----
+<br>
 
-## 2026 Goals
-
-- Become a stronger AI Software Engineer
-- Build production-ready intelligent applications
-- Improve Cloud and DevOps skills
-- Contribute to Open Source
-
----
-
-## Let's Connect
-
-- LinkedIn: Add your profile link
-- Portfolio: https://massamba-fall.vercel.app
-- Email: massamba0809@gmail.com
-
----
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=massamba0809&style=flat" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=massamba0809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=massamba0809&theme=tokyonight&hide_border=true" />
 
-"Code. Learn. Build. Share."
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massamba0809&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&theme=tokyo-night&hide_border=true" width="90%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=massamba0809&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
+</div>
+
+<br>
+
+## 2026 Objectives
+
+- Become a stronger AI Software Engineer
+- Build production-ready intelligent applications
+- Deepen Cloud and DevOps expertise
+- Contribute to Open Source projects
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+
+<div align="center">
+<sub>Code. Learn. Build. Share.</sub>
 </div>

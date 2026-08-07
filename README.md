@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4568DC,100:B06AB3&height=230&section=header&text=Massamba%20Fall%20Sène&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C3A9C&height=230&section=header&text=Massamba%20Fall%20Sène&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=17&animation=fadeIn" />
 
 ### Backend Developer | AI Engineer in Progress | Software Builder
 
@@ -121,6 +121,6 @@ System Design
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B06AB3,100:4568DC&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C3A9C&height=100&section=footer" />
 
 </div>

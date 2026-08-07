@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Massamba%20Fall%20Sène&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4568DC,100:B06AB3&height=230&section=header&text=Massamba%20Fall%20Sène&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=55&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2C5364&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+Developer;Designing+Scalable+Backend+Systems;AI+Engineering+Student+at+Sonatel+Academy;Bridging+Software+Engineering+and+Data+Science" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3200&pause=900&color=6A5ACD&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+Developer;Designing+Scalable+Backend+Systems;AI+Engineering+Student+at+Sonatel+Academy;Bridging+Software+Engineering+and+Data+Science" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-massamba--fall.vercel.app-0F2027?style=flat-square&logo=vercel&logoColor=white)](https://massamba-fall.vercel.app)
-[![Email](https://img.shields.io/badge/Email-massamba0809%40gmail.com-0F2027?style=flat-square&logo=gmail&logoColor=white)](mailto:massamba0809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2027?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-massamba--fall.vercel.app-6A5ACD?style=flat-square&logo=vercel&logoColor=white)](https://massamba-fall.vercel.app)
+[![Email](https://img.shields.io/badge/Email-massamba0809%40gmail.com-6A5ACD?style=flat-square&logo=gmail&logoColor=white)](mailto:massamba0809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 </div>
 
@@ -31,45 +31,29 @@ My path started in Java backend development — building REST APIs and business-
 
 ## Technical Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Backend**
-![Java](https://img.shields.io/badge/Java-0F2027?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F2027?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0F2027?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-0F2027?style=flat-square&logo=hibernate&logoColor=white)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0F2027?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0F2027?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 
 **Frontend**
-![React](https://img.shields.io/badge/React-0F2027?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0F2027?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F2027?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
 **Artificial Intelligence**
-![Python](https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0F2027?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0F2027?style=flat-square&logo=pandas&logoColor=white)
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 
 **DevOps & Tools**
-![Linux](https://img.shields.io/badge/Linux-0F2027?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0F2027?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F2027?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0F2027?style=flat-square&logo=amazonaws&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws" />
+
+</div>
 
 <br>
 
@@ -122,10 +106,10 @@ A collection of learning projects centered on Linux administration, automation, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=massamba0809&show_icons=true&theme=default&hide_border=true&title_color=0F2027&icon_color=2C5364&text_color=333333" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=massamba0809&theme=default&hide_border=true&background=FFFFFF&stroke=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=0F2027" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=massamba0809&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=massamba0809&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&bg_color=FFFFFF&color=0F2027&line=2C5364&point=0F2027&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=massamba0809&theme=react-dark&hide_border=true" width="90%" />
 
 </div>
 
@@ -140,7 +124,7 @@ A collection of learning projects centered on Linux administration, automation, 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B06AB3,100:4568DC&height=120&section=footer" />
 
 <div align="center">
 <sub>Code. Learn. Build. Share.</sub>
